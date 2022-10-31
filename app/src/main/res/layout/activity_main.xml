@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="الله أكبر"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="24dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="الحمداللہ"
+        tools:layout_editor_absoluteX="150dp"
+        tools:layout_editor_absoluteY="84dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="سبحان اللہ"
+        tools:layout_editor_absoluteX="152dp"
+        tools:layout_editor_absoluteY="146dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="يا حي يا قيوم"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="206dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="أستغفر اللّٰه"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="266dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="لا إله إلا الله محمد رسول الله"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="326dp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="درود شریف"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="386dp" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="نئی تسبیح بنائیں+"
+        tools:layout_editor_absoluteX="-16dp"
+        tools:layout_editor_absoluteY="446dp" />
+</LinearLayout>
